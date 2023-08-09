@@ -3,7 +3,7 @@ import json
 import collections
 import matplotlib.pyplot as plt
 
-api_key = "84106441268deb7ffe2e2cba6a2bb65b"
+api_key = "ur api key here"
 url = 'https://api.start.gg/gql/alpha'
 
 headers = {'Authorization': 'Bearer ' + api_key, 'Content-Type': 'application/json'}
